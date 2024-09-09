@@ -1,0 +1,1 @@
+# Effective-detection-of-quantum-discord-by-using-convolutional-neural-networks
